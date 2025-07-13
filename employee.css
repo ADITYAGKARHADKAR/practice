@@ -1,0 +1,14 @@
+.frm {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px 0px;
+  align-items: center;
+  margin: 100px;
+  width: 50%;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
